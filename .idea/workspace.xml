@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fce1121-c46a-4b52-b85c-e57367659e3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oYXIA6p3Qy2pVnvkLKy7VWU1DU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\KP\ws\services\v1\user" />
+      <recent name="C:\xampp\htdocs\KP\ws\services\v1\document" />
+      <recent name="C:\xampp\htdocs\KP\ws" />
+      <recent name="C:\xampp\htdocs\KP\ws\services" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\KP\page" />
+      <recent name="C:\xampp\htdocs\KP\upload" />
+      <recent name="C:\xampp\htdocs\KP\css" />
+      <recent name="C:\xampp\htdocs\KP\js" />
+      <recent name="C:\xampp\htdocs\KP\ws\utility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.DocumentDAO.php">
+    <configuration name="DocumentDAO.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/KP/ws/DAO/DocumentDAO.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="v1" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/ws/services/v1" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.DocumentDAO.php" />
+        <item itemvalue="PHPUnit.v1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fce1121-c46a-4b52-b85c-e57367659e3d" name="Default Changelist" comment="" />
+      <created>1613464418775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613464418775</updated>
+      <workItem from="1613464420762" duration="2726000" />
+      <workItem from="1613522672813" duration="4861000" />
+      <workItem from="1613546532486" duration="1385000" />
+      <workItem from="1613562972349" duration="2086000" />
+      <workItem from="1613627855249" duration="696000" />
+      <workItem from="1613651117314" duration="3126000" />
+      <workItem from="1614057582007" duration="36000" />
+      <workItem from="1614074237370" duration="1097000" />
+      <workItem from="1614405227836" duration="5033000" />
+      <workItem from="1614420853436" duration="8236000" />
+      <workItem from="1614488335878" duration="1928000" />
+      <workItem from="1614509712624" duration="3533000" />
+      <workItem from="1614514796311" duration="131000" />
+      <workItem from="1614516581535" duration="58000" />
+      <workItem from="1614650217231" duration="109000" />
+      <workItem from="1614768855989" duration="1243000" />
+      <workItem from="1615001596296" duration="4792000" />
+      <workItem from="1615018370124" duration="2975000" />
+      <workItem from="1615021623067" duration="92000" />
+      <workItem from="1615027032523" duration="1914000" />
+      <workItem from="1615109121311" duration="5410000" />
+      <workItem from="1615255968305" duration="43000" />
+      <workItem from="1615383151751" duration="32000" />
+      <workItem from="1615858931390" duration="44000" />
+      <workItem from="1615983992703" duration="5542000" />
+      <workItem from="1615989931604" duration="1184000" />
+      <workItem from="1616465858740" duration="54000" />
+      <workItem from="1616717758815" duration="1653000" />
+      <workItem from="1617101650024" duration="598000" />
+      <workItem from="1618748467135" duration="5474000" />
+      <workItem from="1618791648989" duration="2348000" />
+      <workItem from="1618880762335" duration="52000" />
+      <workItem from="1619338606478" duration="4412000" />
+      <workItem from="1619481342224" duration="62000" />
+      <workItem from="1619529903725" duration="8844000" />
+      <workItem from="1619613037387" duration="7001000" />
+      <workItem from="1619695141300" duration="3685000" />
+      <workItem from="1619766623722" duration="2636000" />
+      <workItem from="1619772608216" duration="881000" />
+      <workItem from="1619931744719" duration="5313000" />
+      <workItem from="1619948471828" duration="11889000" />
+      <workItem from="1620095448791" duration="92000" />
+      <workItem from="1620117092654" duration="5378000" />
+      <workItem from="1620562361526" duration="257000" />
+      <workItem from="1620995482685" duration="1737000" />
+      <workItem from="1620997332700" duration="316000" />
+      <workItem from="1621061969895" duration="7656000" />
+      <workItem from="1621304995143" duration="47000" />
+      <workItem from="1622261310879" duration="1927000" />
+      <workItem from="1622363811354" duration="1760000" />
+      <workItem from="1622624644480" duration="57000" />
+      <workItem from="1622787904854" duration="2228000" />
+      <workItem from="1622790452456" duration="154000" />
+      <workItem from="1622887200958" duration="108000" />
+      <workItem from="1623299549634" duration="100000" />
+      <workItem from="1623688181457" duration="51000" />
+      <workItem from="1623930573786" duration="1237000" />
+      <workItem from="1623980848515" duration="3198000" />
+      <workItem from="1624020052997" duration="1806000" />
+      <workItem from="1624096830840" duration="1240000" />
+      <workItem from="1624098285757" duration="180000" />
+      <workItem from="1624098532258" duration="1223000" />
+      <workItem from="1624103461042" duration="201000" />
+      <workItem from="1624167805044" duration="2446000" />
+      <workItem from="1624170499735" duration="5577000" />
+      <workItem from="1624199272684" duration="6967000" />
+      <workItem from="1624244560266" duration="1256000" />
+      <workItem from="1624245887935" duration="4705000" />
+      <workItem from="1624261402116" duration="4926000" />
+      <workItem from="1624275341952" duration="39000" />
+      <workItem from="1624283631719" duration="79000" />
+      <workItem from="1624323742908" duration="661000" />
+      <workItem from="1624455073132" duration="3572000" />
+      <workItem from="1624538025754" duration="79000" />
+      <workItem from="1624539391127" duration="309000" />
+      <workItem from="1624612788132" duration="382000" />
+      <workItem from="1624613842139" duration="465000" />
+      <workItem from="1624627854306" duration="1797000" />
+      <workItem from="1625576434318" duration="168000" />
+      <workItem from="1625642206444" duration="2195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1624020436122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624020436122" />
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619617059630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1619617059630" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1625576606459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1625576606459" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1624176167554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624176167554" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1624176167554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624176167554" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1624176167553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624176167553" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1624176167554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624176167554" />
+    <state x="513" y="87" key="NewPhpClassDialog" timestamp="1619933020629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1619933020629" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1623981588546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1623981588546" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1619962066784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1619962066784" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619952358793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1619952358793" />
+  </component>
+</project>
